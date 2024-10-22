@@ -1,0 +1,14 @@
+"Task Aware Debugger for GDB" version 11.10.0 (202404041456)
+Copyright 2016-2023 NXP
+==================================
+09:02:00.151 INFO: [ZephyrRTOS] .config file could not be read [C:\Users\facus\OneDrive\Documentos\curso-ise\curso-lse\workspace_lpc845\03_light_control\Debug\.config (El sistema no puede encontrar el archivo especificado)]
+09:02:00.152 INFO: [TadModel] DSF session ID 6 has started.
+09:02:11.930 INFO: [TadState] TAD state changed: DEBUG_STARTED -> DEBUG_INIT_0 (RESUMED, USER_REQUEST)
+09:02:11.975 INFO: [TadState] TAD state changed: DEBUG_INIT_0 -> DEBUG_INIT_1 (SUSPENDED, SIGNAL)
+09:02:13.99 INFO: [TadState] TAD state changed: DEBUG_INIT_1 -> DEBUG_SUSPENDED (RESUMED, USER_REQUEST)
+09:02:13.237 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_SUSPENDED (SUSPENDED, BREAKPOINT)
+09:02:16.440 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+09:02:16.658 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, BREAKPOINT)
+09:02:32.469 INFO: [TadState] TAD state changed: READY -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+09:03:15.890 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, SIGNAL)
+09:03:17.509 INFO: [TadModel] DSF session ID 6 has ended.
